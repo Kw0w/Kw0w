@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kw0w
-- 👀 I’m interested in live in pain
-- 🌱 I’m currently learning c++ and gamedev
+- 👀 I’m interested in gamedev
+- 🌱 I’m currently learning front end web dev
 - 📫 How to reach me https://twitter.com/Kw0wdev
 
 <!---
